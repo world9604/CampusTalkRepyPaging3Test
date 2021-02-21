@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="real_black">#000000</color>
+    <color name="transparent_black_20">#99000000</color>
+    <!--    <color name="colorPrimary">#3F51B5</color>-->
+    <color name="colorPrimary">#00ffd6</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="primary_light2">#f5f6fa</color>
+    <color name="colorAccent">#6ca1ee</color>
+    <color name="transparent">#00000000</color>
+    <color name="black_50">#80000000</color>
+    <color name="black_25">#40000000</color>
+    <color name="greyish_brown">#3C3C3C</color>
+    <color name="greyish_brown_50">#7F3C3C3C</color>
+    <color name="soft_blue">#6ea3eb</color>
+    <color name="white_two">#f6f6f6</color>
+    <color name="pinkish_grey">#c7c7c7</color>
+    <color name="warm_grey">#9b9b9b</color>
+    <color name="warm_grey_two">#989898</color>
+    <color name="red_orange">#ffd200</color>
+    <color name="white_three">#dcdcdc</color>
+    <color name="greyish">#a3a3a3</color>
+    <color name="greyish_brown_two">#535353</color>
+    <color name="duck_egg_blue">#eff4fc</color>
+    <color name="soft_blue_two">#6497e1</color>
+    <color name="pale_sky_blue">#cde3ff</color>
+    <color name="soft_blue_three">#6ca1ee</color>
+    <color name="dark_blue">#313191</color>
+    <color name="dark_blue2">#011d82</color>
+
+    <color name="pinkish_grey_two">#cecece</color>
+    <color name="pale_gold">#ffca67</color>
+    <color name="sand">#b8e77a</color>
+    <color name="aqua_marine">#41d6ed</color>
+    <color name="pale_brown">#a48e72</color>
+    <color name="white_four">#e6e6e6</color>
+    <color name="white_five">#d6d6d6</color>
+    <color name="warm_grey_three">#9f9f9f</color>
+    <color name="white_six">#eaeaea</color>
+    <color name="warm_grey_four">#949494</color>
+    <color name="white_seven">#fafafa</color>
+    <color name="dark_sky_blue">#3883e8</color>
+    <color name="very_light_blue">#e8f2ff</color>
+    <color name="warm_grey_five">#727272</color>
+    <color name="pinkish_grey_three">#c9c9c9</color>
+    <color name="canary_yellow">#ffed3f</color>
+    <color name="sun_yellow">#ffd729</color>
+    <color name="marigold">#ffc700</color>
+    <color name="yellow_orange">#ffb800</color>
+    <color name="orange_yellow">#ffa200</color>
+    <color name="grapefruit">#f85f5f</color>
+    <color name="pinkish_orange">#ff6f3e</color>
+    <color name="reddish_orange">#f7561f</color>
+    <color name="light_olive_green">#97c956</color>
+    <color name="avocado">#7fbc2f</color>
+    <color name="medium_green">#3da539</color>
+    <color name="tree_green">#23931e</color>
+    <color name="bluey_green">#269f92</color>
+    <color name="greenish_blue">#0d8d80</color>
+    <color name="tiffany_blue">#5de8f1</color>
+    <color name="aqua_marine_two">#2edae5</color>
+    <color name="aqua">#1fc7d7</color>
+    <color name="topaz">#0fb4c4</color>
+    <color name="azure">#0a9bdd</color>
+    <color name="bright_sky_blue">#0cb8fe</color>
+    <color name="dark_sky_blue_two">#279fdd</color>
+    <color name="water_blue">#0f91d3</color>
+    <color name="brownish_grey">#86675c</color>
+    <color name="dark_taupe">#7c574a</color>
+    <color name="greyish_two">#a7a7a7</color>
+    <color name="warm_grey_six">#959595</color>
+    <color name="warm_grey_seven">#878787</color>
+    <color name="warm_grey_eight">#7c7c7c</color>
+    <color name="brownish_grey_two">#616161</color>
+    <color name="sunflower_yellow">#ffda00</color>
+    <color name="marigold_two">#ffbf00</color>
+    <color name="orange_yellow_two">#ffa300</color>
+    <color name="tangerine">#ff9500</color>
+    <color name="pumpkin_orange">#ff8000</color>
+    <color name="salmon">#ff7962</color>
+    <color name="pinkish_orange_two">#ff6632</color>
+    <color name="lavender_blue">#8674f6</color>
+    <color name="purpley">#7461ec</color>
+    <color name="lightish_purple">#b95ee9</color>
+    <color name="lightish_purple_two">#ac4cdf</color>
+    <color name="brownish_grey_three">#606060</color>
+    <color name="greyish_three">#b6b6b6</color>
+    <color name="warm_grey_nine">#7f7f7f</color>
+    <color name="dark_sky_blue_three">#5491e3</color>
+    <color name="greyish_four">#a6a6a6</color>
+    <color name="greyish_four_20">#33a6a6a6</color>
+    <color name="warm_grey_ten">#8d8d8d</color>
+    <color name="pinkish_grey_four">#bcbcbc</color>
+    <color name="salmon_two">#ff6d60</color>
+    <color name="warm_grey_eleven">#838383</color>
+    <color name="beige">#e4e1aa</color>
+    <color name="light_salmon">#ffa392</color>
+    <color name="greyish_five">#b9b9b9</color>
+    <color name="powder_blue">#a4c6f4</color>
+    <color name="black">#333333</color>
+    <color name="sign_up_hint_color">#f3000000</color>
+    <color name="greyish_six">#aeaeae</color>
+    <color name="dark_sky_blue_four">#5790de</color>
+    <color name="white_eight">#dadada</color>
+    <color name="greyish_brown_three">#5a5a5a</color>
+    <color name="white_nine">#fafafa</color>
+    <color name="white_ten">#f7f7f7</color>
+    <color name="brownish_grey_four">#646464</color>
+    <color name="orangered">#ff4b0d</color>
+    <color name="white_50">#7FFFFFFF</color>
+    <color name="white">#FFFFFF</color>
+
+
+    <array name="week_color">
+        <item>@color/light_salmon</item>
+        <item>@android:color/white</item>
+        <item>@android:color/white</item>
+        <item>@android:color/white</item>
+        <item>@android:color/white</item>
+        <item>@android:color/white</item>
+        <item>@color/beige</item>
+    </array>
+
+    <array name="color_palette">
+        <item>@color/marigold_two</item>
+        <item>@color/tangerine</item>
+        <item>@color/salmon</item>
+        <item>@color/pinkish_orange_two</item>
+        <item>@color/light_olive_green</item>
+        <item>@color/medium_green</item>
+        <item>@color/bluey_green</item>
+        <item>@color/aqua</item>
+        <item>@color/bright_sky_blue</item>
+        <item>@color/dark_sky_blue_two</item>
+        <item>@color/lavender_blue</item>
+        <item>@color/lightish_purple</item>
+        <item>@color/brownish_grey</item>
+        <item>@color/greyish_two</item>
+        <item>@color/warm_grey_seven</item>
+        <item>@color/brownish_grey_two</item>
+    </array>
+
+    <array name="color_palette_border">
+        <item>@color/orange_yellow_two</item>
+        <item>@color/pumpkin_orange</item>
+        <item>@color/grapefruit</item>
+        <item>@color/orangered</item>
+        <item>@color/avocado</item>
+        <item>@color/tree_green</item>
+        <item>@color/greenish_blue</item>
+        <item>@color/topaz</item>
+        <item>@color/azure</item>
+        <item>@color/water_blue</item>
+        <item>@color/purpley</item>
+        <item>@color/lightish_purple_two</item>
+        <item>@color/dark_taupe</item>
+        <item>@color/warm_grey_six</item>
+        <item>@color/warm_grey_eight</item>
+        <item>@color/greyish_brown_two</item>
+    </array>
+
+    <!-- ====================================== -->
+
+    <color name="n_white_87">#deffffff</color>
+    <color name="n_white">#ffffff</color>
+    <color name="n_white_two">#faf9f9</color>
+    <color name="n_white_three">#dcdcdc</color>
+    <color name="n_white_four">#f1f1f1</color>
+    <color name="n_white_five">#d6d6d6</color>
+    <color name="n_white_six">#d5d5d5</color>
+    <color name="n_white_seven">#e9e9e9</color>
+    <color name="n_white_eight">#f6f6f6</color>
+    <color name="n_white_nine">#d8d8d8</color>
+    <color name="n_white_ten">#e3e3e3</color>
+    <color name="n_white_eleven">#fafafa</color>
+    <color name="n_white_twelve">#ededed</color>
+    <color name="n_greyish_brown">#3C3C3C</color>
+    <color name="n_black">#363636</color>
+    <color name="n_soft_blue">#6ea3eb</color>
+    <color name="black_two">#cc000000</color>
+    <color name="black_two0.8">#cc000000</color>
+    <color name="black_two0.95">#f3000000</color>
+    <color name="n_soft_blue_three">#5da5f1</color>
+    <color name="n_bluish">#2881d7</color>
+    <color name="n_soft_blue_20">#336ea3eb</color>
+    <color name="n_soft_blue_50">#7F6ea3eb</color>
+    <color name="n_soft_blue_two">#6497e0</color>
+    <color name="n_duck_egg_blue">#e8f0fb</color>
+    <color name="n_duck_egg_blue_two">#dbe8fa</color>
+    <color name="n_duck_egg_blue_three">#e6f0fa</color>
+    <color name="n_warm_grey">#989898</color>
+    <color name="n_warm_grey_two">#9b9b9b</color>
+    <color name="n_black_15">#26000000</color>
+    <color name="n_black_30">#4c000000</color>
+    <color name="n_black_40">#66000000</color>
+    <color name="n_perrywinkle">#99aee8</color>
+    <color name="n_pale_grey">#f5f3f5</color>
+    <color name="n_yellow_orange">#ffb800</color>
+    <color name="n_egg_shell">#ffefc4</color>
+    <color name="n_tangerine">#ff9500</color>
+    <color name="n_light_peach">#ffe4c4</color>
+    <color name="n_salmon">#ff7962</color>
+    <color name="n_very_light_pink">#ffd9d3</color>
+    <color name="n_pinkish_orange">#ff6632</color>
+    <color name="n_pale_salmon">#ffaf94</color>
+    <color name="n_light_olive_green">#97c956</color>
+    <color name="n_light_khaki">#e1f7c4</color>
+    <color name="n_medium_green">#3da539</color>
+    <color name="n_light_grey_green">#9edf9c</color>
+    <color name="n_bluey_green">#269f92</color>
+    <color name="n_light_grey_blue">#9edad3</color>
+    <color name="n_aqua">#1fc7d7</color>
+    <color name="n_light_sky_blue">#c9faff</color>
+    <color name="n_bright_sky_blue">#0cb8fe</color>
+    <color name="n_really_light_blue">#d3efff</color>
+    <color name="n_dark_sky_blue">#279fdd</color>
+    <color name="n_baby_blue">#a3defd</color>
+    <color name="n_lavender_blue">#8674f6</color>
+    <color name="n_pale_lilac">#ddd8ff</color>
+    <color name="n_lightish_purple">#b95ee9</color>
+    <color name="n_light_lilac">#efd0ff</color>
+    <color name="n_brownish_grey">#86675c</color>
+    <color name="n_pinkish_grey">#e3d0c9</color>
+    <color name="n_greyish">#a7a7a7</color>
+    <color name="n_warm_grey_three">#878787</color>
+    <color name="n_warm_grey_four">#9f9f9f</color>
+    <color name="n_pinkish_grey_two">#c6c6c6</color>
+    <color name="n_pinkish_grey_three">#d1d1d1</color>
+    <color name="n_pinkish_grey_four">#c7c7c7</color>
+    <color name="n_brownish_grey_two">#616161</color>
+    <color name="n_brownish_grey_three">#5e5e5e</color>
+    <color name="n_greyish_two">#a9a9a9</color>
+    <color name="n_greyish_three">#b9b9b9</color>
+    <color name="n_greyish_four">#aeaeae</color>
+    <color name="n_cornflower_blue">#437fd1</color>
+    <color name="n_powder_blue">#a4c6f3</color>
+    <color name="n_powder_blue_three">#afd2f9</color>
+    <color name="n_warm_grey_five">#949494</color>
+    <color name="n_sunflower_yellow">#fae100</color>
+    <color name="n_puke_yellow">#cdaa14</color>
+    <color name="n_camo_green">#381f1f</color>
+    <color name="n_blueberry">#514695</color>
+    <color name="n_brownish">#9b5959</color>
+    <color name="n_ice_blue">#f7faff</color>
+    <color name="n_ice_blue_two">#f6faff</color>
+    <color name="n_orange_pink">#ff6f59</color>
+    <color name="n_eggplant_30">#4c07071c</color>
+    <color name="n_teal">#00a292</color>
+    <color name="n_blush">#eea576</color>
+    <color name="colorOverlay">#78ffffff</color>
+    <color name="red">#ff0000</color>
+    <color name="icebluelee">#f4f9ff</color>
+
+    <array name="background_colors">
+        <item>@color/n_egg_shell</item>
+        <item>@color/n_light_peach</item>
+        <item>@color/n_very_light_pink</item>
+        <item>@color/n_pale_salmon</item>
+        <item>@color/n_light_khaki</item>
+        <item>@color/n_light_grey_green</item>
+        <item>@color/n_light_grey_blue</item>
+        <item>@color/n_light_sky_blue</item>
+        <item>@color/n_really_light_blue</item>
+        <item>@color/n_baby_blue</item>
+        <item>@color/n_pale_lilac</item>
+        <item>@color/n_light_lilac</item>
+        <item>@color/n_pinkish_grey</item>
+        <item>@color/n_white_four</item>
+        <item>@color/n_pinkish_grey_two</item>
+        <item>@color/n_greyish_two</item>
+    </array>
+
+    <array name="foreground_colors">
+        <item>@color/n_yellow_orange</item>
+        <item>@color/n_tangerine</item>
+        <item>@color/n_salmon</item>
+        <item>@color/n_pinkish_orange</item>
+        <item>@color/n_light_olive_green</item>
+        <item>@color/n_medium_green</item>
+        <item>@color/n_bluey_green</item>
+        <item>@color/n_aqua</item>
+        <item>@color/n_bright_sky_blue</item>
+        <item>@color/n_dark_sky_blue</item>
+        <item>@color/n_lavender_blue</item>
+        <item>@color/n_lightish_purple</item>
+        <item>@color/n_brownish_grey</item>
+        <item>@color/n_greyish</item>
+        <item>@color/n_warm_grey_three</item>
+        <item>@color/n_brownish_grey_two</item>
+    </array>
+
+    <color name="map_circle_fill">#2692ccea</color>
+    <color name="map_circle_stroke">#8a000000</color>
+    <color name="error_message_color">#ff0000</color>
+    <color name="dark_gray">#8a000000</color>
+    <color name="random_chatting_bg">#00afd3</color>
+    <color name="chat_bot_bg">#86c2ec</color>
+    <color name="open_chat_bg">#f5f6fa</color>
+    <color name="black_de">#de000000</color>
+    <color name="_68dcca">#68dcca</color>
+    <color name="_5bd9c5">#5bd9c5</color>
+    <color name="_70f7e1">#70f7e1</color>
+    <color name="_d8d8d8">#d8d8d8</color>
+    <color name="_979797">#979797</color>
+    <color name="_f3ffffff">#f3ffffff</color>
+    <color name="_61d8c5">#61d8c5</color>
+
+</resources>
